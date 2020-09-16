@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/website-morney-r/static/css/main.f5de22fc.chunk.css",
+    "main.js": "/website-morney-r/static/js/main.1be80565.chunk.js",
+    "main.js.map": "/website-morney-r/static/js/main.1be80565.chunk.js.map",
+    "runtime-main.js": "/website-morney-r/static/js/runtime-main.c257ce5c.js",
+    "runtime-main.js.map": "/website-morney-r/static/js/runtime-main.c257ce5c.js.map",
+    "static/js/2.6fcf50a9.chunk.js": "/website-morney-r/static/js/2.6fcf50a9.chunk.js",
+    "static/js/2.6fcf50a9.chunk.js.map": "/website-morney-r/static/js/2.6fcf50a9.chunk.js.map",
+    "index.html": "/website-morney-r/index.html",
+    "precache-manifest.e19f0906e741f902e7d2c7ef8787f4b2.js": "/website-morney-r/precache-manifest.e19f0906e741f902e7d2c7ef8787f4b2.js",
+    "service-worker.js": "/website-morney-r/service-worker.js",
+    "static/css/main.f5de22fc.chunk.css.map": "/website-morney-r/static/css/main.f5de22fc.chunk.css.map",
+    "static/js/2.6fcf50a9.chunk.js.LICENSE.txt": "/website-morney-r/static/js/2.6fcf50a9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c257ce5c.js",
+    "static/js/2.6fcf50a9.chunk.js",
+    "static/css/main.f5de22fc.chunk.css",
+    "static/js/main.1be80565.chunk.js"
+  ]
+}
